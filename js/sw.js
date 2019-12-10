@@ -9,7 +9,7 @@ var urlsToCache = [
       "/img/movie_1080.jpg",
       "/img/movie_720.jpg",
       "/img/movie_480.jpg",
-      "/css/style.css",
+      "/css/style.css"
 ];
 
 self.addEventListener("instal", function(event) {
