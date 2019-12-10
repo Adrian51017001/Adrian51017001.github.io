@@ -1,4 +1,4 @@
-const CACHE_NAME = "pwebmovie"
+const CACHE_NAME = "pwebmovie";
 var urlsToCache = [
       "/",
       "/js/tmdb.js",
